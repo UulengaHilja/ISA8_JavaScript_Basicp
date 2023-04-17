@@ -1,1 +1,3 @@
-# ISA8_JavaScript_Basicp
+# JavaScript assignments
+
+The purpose of this assignment is to practice the basic concept of JavaScript
