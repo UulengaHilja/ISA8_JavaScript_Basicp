@@ -1,12 +1,12 @@
 // Exercise 1
 // write an object has: name, country, address, language and the language has several values.
-const client = 
+const object = 
 {name: "Hilja Uulenga",
 country: "Germany"
 address: "25567 My Street, Berlin, DE",
 language: ["Englsh", "Oshiwambo", "Deutsch"] 
 };
-console.log(student);
+console.log(object);
 
 
 
